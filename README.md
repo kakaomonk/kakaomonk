@@ -1,6 +1,10 @@
 ### Hi there 👋
 I am Henry Park and studied Mathematics, Computer Science, and Statistics at University of Toronto.
 
+My Skills are...
+Full Stack, Java, Python, JavaScript, AWS, SQL, Postgres, MongoDB, Django, Git, Agile 
+R, KNN, TensorFlow, Regression Tree, Power BI, Tableau
+
 
 <!--
 **kakaomonk/kakaomonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
