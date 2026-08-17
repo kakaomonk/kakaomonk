@@ -1,22 +1,10 @@
-### Hi there 👋
-I am Henry Park and studied Mathematics, Computer Science, and Statistics at University of Toronto.
+### Hi, I'm Henry 👋
 
-My Skills are...
-Full Stack, Java, Python, JavaScript, AWS, SQL, Postgres, MongoDB, Django, Git, Agile 
-R, KNN, TensorFlow, Regression Tree, Power BI, Tableau
+CS & Math grad from UofT, into backend dev and data stuff. Currently job hunting and building things on the side.
 
+- 🔭 Working on **[Shelfie](https://github.com/kakaomonk/shelfie-bookshelf-scanner)** — snap a photo of your bookshelf, get a structured library out of it (FastAPI + local CV model + Claude for reading spines)
+- 🛠️ Also built a location-based social platform (FastAPI, PostgreSQL, React) — mostly an excuse to think hard about schema design and query performance
+- 💬 Comfortable with Python, SQL, Java, and figuring out whatever framework the project needs
+- 📫 Reach me at park.sm.apple@gmail.com or [LinkedIn](https://www.linkedin.com/in/hyungsoopark)
 
-<!--
-**kakaomonk/kakaomonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently open to full-time roles in backend / data engineering — always happy to chat.
